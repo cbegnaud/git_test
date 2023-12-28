@@ -1,1 +1,2 @@
 I'm adding some text.
+I added another line of text.
